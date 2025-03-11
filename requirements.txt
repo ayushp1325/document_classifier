@@ -1,0 +1,36 @@
+# Core Dependencies
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+
+# NLP and Text Processing
+nltk
+spacy
+textblob
+
+# Deep Learning (if you use BERT)
+torch
+transformers
+sentence-transformers
+
+# Vector Search (for search model)
+faiss-cpu
+
+# PDF and Image Processing
+pdfplumber
+pytesseract
+opencv-python
+pillow
+
+# Web Scraping (if needed)
+beautifulsoup4
+requests
+
+# Utility & Logging
+tqdm
+loguru
+
+# Environment Variable Handling
+python-dotenv
